@@ -34,8 +34,12 @@ I like spending time with my family, freinds and girlfriend. 🧑‍🤝‍🧑
 
 *
 
-## Keep In Touch 📫
+<details>
+ ## Keep In Touch 📫
 
 * Email: 123lukasbeck@gmail.com
 * Discord: Superluck
+
+</details>
+
 
