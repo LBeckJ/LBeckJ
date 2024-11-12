@@ -12,7 +12,9 @@ I am 19 years old and trying to become a full stack developer. I go to school in
 * Gaming 🎮
 
 I like spending time with my family, freinds and girlfriend. 🧑‍🤝‍🧑
+
 -
+
 ## Languages
 <!--
 
