@@ -4,8 +4,9 @@
 
 ## About Me 🧠
 
-My name is Lukas and im looking to propel my cyber skills 👨‍💻<br/><br/>
-I am still early in my career, but lots of more opportunities to come... <br/><br/>
+My name is Lukas and im looking to propel my cyber skills 👨‍💻
+I am still early in my career, but lots of more opportunities to come... 
+
 I am 19 years old and trying to become a full stack developer. I go to school in Copenhagen, Denmark. <br/><br/>
 ### Some of my hobbies include:
 * Bouldering 🧗‍♂️
