@@ -1,6 +1,8 @@
-## Welcome ✌️
+## 🌊 Lukas Jakobsen
 
-#My name is Lukas and im looking to propel my cyber skills 👨‍💻
+`Full Stack / Cyber Researcher`
+
+# My name is Lukas and im looking to propel my cyber skills 👨‍💻
 I am still early in my career, but lots of more opportunities to come... 
 
 ## About Me 🧠
@@ -9,13 +11,17 @@ I am 19 years old and trying to become a full stack developer. I go to school in
 ### Some of my hobbies include:
 * Bouldering 🧗‍♂️
 * Photography 📷
+* Camping ⛺
 * Gaming 🎮
 
 I like spending time with my family, freinds and girlfriend. 🧑‍🤝‍🧑
 
 ---
 
-## Languages
+## Languages and Tools
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+
 <!--
 
 - 🔭 I’m currently working on ...
