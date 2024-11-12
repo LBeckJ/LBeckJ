@@ -32,6 +32,7 @@ I like spending time with my family, freinds and girlfriend. 🧑‍🤝‍🧑
 <img align="left" alt="Pr" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Pr" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="padding-right:10px;"/>
 
+*
 
 ## Keep In Touch 📫
 
