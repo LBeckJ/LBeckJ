@@ -18,7 +18,7 @@ I like spending time with my family, freinds and girlfriend. 🧑‍🤝‍🧑
 
 ---
 
-## Languages and Tools
+## Languages and Tools 🛠️
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
@@ -32,15 +32,8 @@ I like spending time with my family, freinds and girlfriend. 🧑‍🤝‍🧑
 <img align="left" alt="Pr" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Pr" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="padding-right:10px;"/>
 
-          
-<!--
+## Keep In Touch 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email: 123lukasbeck@gmail.com
+* Discord: Superluck
+
