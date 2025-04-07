@@ -9,6 +9,7 @@ I am 19 years old and trying to become a full stack developer. I go to school in
 ### Some of my hobbies include:
 * Bouldering 🧗‍♂️
 * Photography 📷
+* Capture The Flag 👨‍💻
 * Camping ⛺
 * Gaming 🎮
 
